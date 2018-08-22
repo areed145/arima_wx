@@ -131,8 +131,8 @@ def arma_pred(data, prop):
     return data
 
 sid = 'KTXHOUST151'
-d = '24'
-m = '6'
+d = '7'
+m = '8'
 Y = '2018'
 prop = 'temp_f'
 props = ['temp_f','dewpoint_f','pressure_in','relative_humidity','solar_radiation','UV','wind_mph']
